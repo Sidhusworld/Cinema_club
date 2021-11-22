@@ -1,12 +1,3 @@
-<p align="center">
-  <img src="assets/logo.jpg" alt="Eva Maria Logo">
-</p>
-<h1 align="center">
-  <b>Eva Maria Bot</b>
-</h1>
-
-
-https://github.com/EvamariaTG/EvaMaria/stargazers
 
 ## Features
 
@@ -95,8 +86,6 @@ python3 bot.py
 [![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/EvaMariaSupport)
 [![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/EvaMariaUpdates)
 
-## Credits 
-* [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
 
 
 
