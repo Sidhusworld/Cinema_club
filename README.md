@@ -45,8 +45,8 @@
 
 <details><summary>Deploy To VPS</summary>
 <p>
-<pre>
-git clone https://github.com/EvamariaTG/evamaria
+<pre
+git clone https://github.com/Sidhusworld/Cinema_club.git
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
