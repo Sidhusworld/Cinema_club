@@ -1,3 +1,5 @@
+Cinema club 
+
 
 ## Features
 
@@ -80,14 +82,8 @@ python3 bot.py
 • /ban  - to ban a user.
 • /unban  - to unban a user.
 • /channel - to get list of total connected channels
-• /broadcast - to broadcast a message to all Eva Maria users
+• /broadcast - to broadcast a message to all users
 
+##Repo
 
-## DEV
-
-
-Dev     : [KINGS](buttonurl://https//t.me/OWNEROFKINGS)
- 
-Credits : [KINGSONTELEGRAM](buttonurl://https//t.me/kingsontelegram)
-
-Support : [Cinema club ](buttonurl://https//t.me/cinemaclubupdates) 
+https://heroku.com/deploy?template=https://github.com/Sidhusworld/Cinema_club.git
